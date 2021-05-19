@@ -1,4 +1,4 @@
-<div style="text-align:center"><span style="font-family:Georgia; font-size:2em;">ARIMA and LSTM Stock Price Forecasting </span></div>
+<div align="center"><span style="font-family:Georgia; font-size:2em;">ARIMA and LSTM Stock Price Forecasting </span></div>
 
 ---
 
@@ -7,7 +7,6 @@
 </div>
 
 ## Project Scenario
----
 Prior to the stock market crash in March 2020 , I have been fervently dollar cost averaging into the stock market through various US, China and Singapore ETFs without giving much thought or attention to the movements in stock prices. I understand that as a passive investor, I am well positioned to capture beta returns. However, the March's deep market correction piqued my interest as a young and inexperienced investor. 
 
 As a Business Analytics student with an interest in Data Science, I have been trying to learn and familiarize myself with various machine learning models in order to upskill myself. Therefore, this project is an attempt to combine two of my interests (investing and data science) in hopes obtaining a slightly better understanding of the tools and techniques required in seeking alpha returns. 
@@ -57,3 +56,6 @@ Feel free to checkout my socials here.
 5. Missingno
 6. Statsmodel
 </details>
+
+<div style="text-align:center"><span style="font-family:Georgia; font-size:2em;">ARIMA and LSTM Stock Price Forecasting </span></div>
+
