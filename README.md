@@ -5,14 +5,16 @@
 <div align="center"> 
     <img width="460" height="300" src="https://raw.githubusercontent.com/Matthewmcsl/datascience-projects-LSTM/main/Images/stock_header.png"> 
 </div>
-[testing](#libraries)
 
 ## Project Scenario
+---
 Prior to the stock market crash in March 2020 , I have been fervently dollar cost averaging into the stock market through various US, China and Singapore ETFs without giving much thought or attention to the movements in stock prices. I understand that as a passive investor, I am well positioned to capture beta returns. However, the March's deep market correction piqued my interest as a young and inexperienced investor. 
 
 As a Business Analytics student with an interest in Data Science, I have been trying to learn and familiarize myself with various machine learning models in order to upskill myself. Therefore, this project is an attempt to combine two of my interests (investing and data science) in hopes obtaining a slightly better understanding of the tools and techniques required in seeking alpha returns. 
 
-The machine learning models used in this project are **ARIMA** and **LSTM**. With the former, a time-series model that I have actually learnt in school and executed modelling on SAS but never actually implemented in Python and on a real-world dataset. The latter, LSTM, is my attempt to better understand recurrent neural networks (RNN) through this hands on project.
+The machine learning models used in this project are **ARIMA** and **LSTM**. With the former, a time-series model that I have actually learnt in school and executed modelling on SAS but never actually implemented in Python and on a real-world dataset. The latter, LSTM, is my attempt to better understand recurrent neural networks (RNN) through this hands on project. 
+
+*Note: This project is still currently an active work in progress.*
 
 
 
