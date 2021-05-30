@@ -18,16 +18,16 @@ Linkedin: https://www.linkedin.com/in/matthew-chan-b835a3184/ </span>
 
 <center>
 
-|   Project Number      |   Project Type            |   Description         |    
-|   :------------:      |   :----------:            |   -------:            |
-|   #1                  |   Time series Forecasting |   ARIMA & LSTM        |
+|   Project Number      |   Project Type            |   Models Used        |       Status
+|   :------------:      |   :----------:            |   :-------:           |   :----------:
+|   #1                  |   Time series Forecasting |   ARIMA & LSTM        |   On-going (30-05-2021)
 
 </center>
 
 &nbsp;
 
 <details>
-<summary> Project 1: ARIMA & LSTM Time-series forecasting</summary>
+<summary>Project 1: ARIMA & LSTM Time-series forecasting [Click to Show/Hide] </summary>
 
 &nbsp;
 
@@ -46,6 +46,7 @@ Linkedin: https://www.linkedin.com/in/matthew-chan-b835a3184/ </span>
 
 ### Project Scenario
 ---
+
 Prior to the stock market crash in March 2020 , I have been fervently dollar cost averaging into the stock market through various US, China and Singapore ETFs without giving much thought or attention to the movements in stock prices. I understand that as a passive investor, I am well positioned to capture beta returns. However, the March's deep market correction piqued my interest as a young and inexperienced investor. 
 
 As a Business Analytics student with an interest in Data Science, I have been trying to learn and familiarize myself with various machine learning models in order to upskill myself. Therefore, this project is an attempt to combine two of my interests (investing and data science) in hopes obtaining a slightly better understanding in attempting to model future stock prices based on historical data through time-series modelling in order to capture alpha returns. 
