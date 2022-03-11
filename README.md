@@ -20,7 +20,7 @@ Linkedin: https://www.linkedin.com/in/matthew-chan-b835a3184/ </span>
 
 |   Project Number      |   Project Type            |   Models Used        |       Status
 |   :------------:      |   :----------:            |   :-------:           |   :----------:
-|   #1                  |   Time series Forecasting |   ARIMA & LSTM        |   On-going (30-05-2021)
+|   #1                  |   Time series Forecasting |   ARIMA & LSTM        |   KIV
 
 </center>
 
